@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Gustavo](https://github.com/gustavolbs)
+- Place: Campina Grande, Paraiba, Brazil
+- Bio: Graduating in Computer Science on UFCG, I like to develop using Node.JS, ReactJS and React Native and of course, my favorite language is JavaScript.
+- GitHub: [Gustavo](https://github.com/gustavolbs)
